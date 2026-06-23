@@ -1,11 +1,11 @@
 {
   "homepage": "https://github.com/yetanotherchris/rclone-encrypt-test",
   "description": "CLI to encrypt/decrypt files using the rclone crypt format",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yetanotherchris/rclone-encrypt-test/releases/download/v0.0.0/rclone-encrypt-test-windows-amd64.exe",
-      "hash": "REPLACE",
+      "url": "https://github.com/yetanotherchris/rclone-encrypt-test/releases/download/v0.1.0/rclone-encrypt-test-windows-amd64.exe",
+      "hash": "c1a0f2c344326240ade144d6957321fc3b97d5b1781331d2b81c9f3ad5c9f19a",
       "bin": [
         [
           "rclone-encrypt-test-windows-amd64.exe",
