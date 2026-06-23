@@ -1,0 +1,7 @@
+*.exe
+*.test
+*.test.exe
+dist/
+artifacts/
+*.tmp
+TEST_FILE*.txt
