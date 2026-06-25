@@ -1,4 +1,4 @@
-# rclone-encrypt-test-grok
+# rclone-encrypt-test-grok-go
 
 A small CLI tool that encrypts and decrypts using the rclone encryption defaults. 
 
